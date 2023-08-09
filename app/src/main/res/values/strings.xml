@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">Avula Sreelatha</string>
+    <string name="yellow_star">yellow star</string>
+    <string name="bio">Hi,My name is Avula Sreelatha.
+        \nI am an Android developer at 3Embed Software Technologies Pvt Ltd.
+        \nI did a Masters degree in Computer Applications (MCA).
+        \nI completed a comprehensive course on Java with a focus on full-stack web development and also data structures and algorithm.
+        \nI have good knowledge in kotlin,I created some projects in Android studio using kotlin language, I learn about layouts as well as firebase,services,Mvvm architecture,view model,live data.
+        \n I am eager to learn new technologies which provides a lot of challenges.I like to take challenges and it takes best out of me every time and make me strong and it always brings best out of me as well.
+        \n currently working on project which is sold
+
+</string>
+    <string name="what_is_your_nickname">what is your nickname?</string>
+    <string name="done">Done</string>
+</resources>
